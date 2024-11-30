@@ -3,3 +3,4 @@ python/.idea
 python/.DS_Store
 java/.idea
 java/.DS_Store
+java/out/*
