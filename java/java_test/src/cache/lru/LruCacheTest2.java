@@ -1,4 +1,4 @@
-package cache;
+package cache.lru;
 
 /**
  * @author dengyh
